@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Redditek</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_settings">Settings</string>
+    <string name="sign_in_with_reddit" />
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="Request_Data">Request api</string>
+    <string name="message">test</string>
+    <string name="getData">Request Get</string>
+    <string name="textName">Name: </string>
+    <string name="textCoins">Coins: </string>
+    <string name="textOvereighteen">18+ :  </string>
+    <string name="textDescription">Description: </string>
+    <string name="textPresence">Show status: </string>
+    <string name="textPMS">Accept Private Message: </string>
+    <string name="show_presence">Show Presence</string>
+    <string name="accept_private_messages">Accept Private Message</string>
+    <string name="over_eighteen">18+</string>
+    <string name="hide_robots">Hide from Robots</string>
+    <string name="textRobots">Hide from Robots: </string>
+    <string name="enable_subscriber">Enable Subscribers</string>
+    <string name="textSubscriber">Enable subscribers:</string>
+    <string name="textLocation">Allow location based recommandation: </string>
+    <string name="show_location">Allow location based recommandation</string>
+</resources>
